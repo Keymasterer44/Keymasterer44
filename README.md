@@ -1,4 +1,5 @@
-## Hi there 👋
+<img align="center" src="https://github-readme-stats-key.vercel.app/api?username=keymasterer44&show_icons=true&hide=stars&show=reviews,prs_merged_percentage&theme=transparent&include_all_commits">
+<img align="center" src="https://github-readme-stats-key.vercel.app/api/top-langs/?username=keymasterer44&theme=transparent&layout=compact&card_width=467&exclude_repo=KIDS_Assignments">
 
 <!--
 **Keymasterer44/Keymasterer44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
